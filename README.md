@@ -2,7 +2,11 @@
 
 <img width="2560" height="424" alt="GITHUB" src="https://github.com/user-attachments/assets/6ad90967-a3d0-4aff-ab35-ba09fb409d88" />
 
-# 👋 Hey, I'm Luis
+<p align="center">
+	<a href="https://github.com/iZaapScripts">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F8C82C&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I%27m+Luis" alt="Typing SVG" />
+	</a>
+</p>
 
 ### Founder of **iZaap Scripts**
 
@@ -39,6 +43,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F8C82C?style=for-the-badge&logo=javascript&logoColor=black)
 ![React JS](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
