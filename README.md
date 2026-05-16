@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="2560" height="424" alt="GITHUB" src="https://github.com/user-attachments/assets/c9653bff-82e3-4e98-9f1f-a1956bb2ad45" />
-
+<img width="2560" height="424" alt="GITHUB" src="https://github.com/user-attachments/assets/6ad90967-a3d0-4aff-ab35-ba09fb409d88" />
 
 # 👋 Hey, I'm Luis
 
