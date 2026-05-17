@@ -10,9 +10,7 @@
 
 ### Founder of **iZaap Scripts**
 
-<a href="https://dev.luisjeremy.me/">
-	<img src="https://img.shields.io/badge/Portfolio-dev.luisjeremy.me-F8C82C?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
+
 
 </div>
 
@@ -48,7 +46,6 @@
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Luis%20Jeremy-F8C82C?style=for-the-badge&logo=google-chrome&logoColor=black)](https://dev.luisjeremy.me/)
 [![Discord](https://img.shields.io/badge/Discord-iZaap%20Scripts-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BGKetK5vtr)
 [![YouTube](https://img.shields.io/badge/YouTube-iZaap%20Studios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iZaapStudios)
 [![Store](https://img.shields.io/badge/Store-iZaap%20Scripts-F8C82C?style=for-the-badge&logo=shopify&logoColor=black)](https://store.izaapscripts.com/)
